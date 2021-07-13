@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 int main() {
-  //commenting
+  //commenting again
   int mark1,mark2;
   double avg;
   printf("Please enter mark for subject 1:\n");
