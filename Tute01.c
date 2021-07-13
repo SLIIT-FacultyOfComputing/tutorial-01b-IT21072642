@@ -5,7 +5,6 @@
 #include <stdio.h>
 
 int main() {
-    //final commit
   int mark1,mark2;
   double avg;
   printf("Please enter mark for subject 1:\n");
